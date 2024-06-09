@@ -1,5 +1,24 @@
 # ZoroGo
 
+Welcome to the ZoroGo development team!
+
+## Setting the project up locally
+
+-clone the repository `git clone https://github.com/RyamL1221/ZoroGo`
+-move into the folder `cd ZoroGo`
+-switch to dev branch `git checkout dev`
+-install dependencies `npm i`
+-run the project `ng serve`
+-the project will run locally at `https://localhost:4200` by default
+
+## Adding new features
+
+- switch to dev branch `git checkout dev`
+- create a branch from the dev branch `git branch feature-name`
+- switch to the new branch `git checkout feature-name`
+
+# Angular README below
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.3.
 
 ## Development server
